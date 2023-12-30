@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/addfriend/static/css/main.aa138434.css",
+    "main.js": "/addfriend/static/js/main.f11e2a4e.js",
+    "index.html": "/addfriend/index.html",
+    "main.aa138434.css.map": "/addfriend/static/css/main.aa138434.css.map",
+    "main.f11e2a4e.js.map": "/addfriend/static/js/main.f11e2a4e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa138434.css",
+    "static/js/main.f11e2a4e.js"
+  ]
+}
